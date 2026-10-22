@@ -18,10 +18,13 @@ dependencies = [
     "python-multipart>=0.0.20",
     "scikit-learn>=1.9.0",
     "sentencepiece>=0.2.2",
+<<<<<<< HEAD
+=======
     "timm>=1.0.29",
     "torch>=2.13.0",
     "transformers>=4.31.0,<5",
     "uvicorn>=0.52.4",
+>>>>>>> c3454979ac21ca7e12a37a19b8ef0ef4c5e82e62
 ]
 
 [tool.uv.workspace]
